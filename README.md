@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastian Rodriguez</h1>
-# Sebastián - Systems Engineer
 
-I am a Systems Engineer who has completed all academic requirements and will formally graduate next year. Throughout my education, I have developed a strong passion for technology, software development best practices, and a continuous focus on cybersecurity.
+I am a Systems Engineer who has completed all academic requirements and will formally graduate next year (2025-March). Throughout my education, I have developed a strong passion for technology, software development best practices, and a continuous focus on cybersecurity.
 
 ## Soft Skills
 - **Effective communication**: I ensure clear and direct communication, focusing on finding the best solutions.
@@ -10,7 +9,7 @@ I am a Systems Engineer who has completed all academic requirements and will for
 - **Problem-solving**: I constantly analyze complex situations and seek efficient and creative solutions.
 - **Continuous learning**: I am passionate about knowledge and constant improvement, always eager to acquire new skills and face new challenges.
 
-If you'd like to learn more about my work experience and education, feel free to visit my [LinkedIn](https://www.linkedin.com) profile, where I keep all my information up to date.
+If you'd like to learn more about my work experience and education, feel free to visit my [LinkedIn](https://www.linkedin.com/in/sbastianr/) profile, where I keep all my information up to date.
 
 ---
 
